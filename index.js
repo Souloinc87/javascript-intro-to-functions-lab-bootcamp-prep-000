@@ -17,3 +17,4 @@ function sayHiToGrandma(string) {
 else if (false) {
   return 'YES INDEED!'
 }
+}
