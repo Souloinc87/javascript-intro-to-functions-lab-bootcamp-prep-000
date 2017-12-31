@@ -15,7 +15,7 @@ function sayHiToGrandma(string) {
   return 'lowercase'
 }
 else if (string === 'HELLO') {
-  return 'uppercase'
+  return 'YES INDEED'
 }
 else {
   return string
