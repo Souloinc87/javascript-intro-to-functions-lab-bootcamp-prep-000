@@ -18,6 +18,6 @@ else if (string === 'HELLO') {
   return 'YES INDEED!'
 }
 else {
-  return string
+  return 'I love you, too.'
 }
 }
